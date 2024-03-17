@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+body::-webkit-scrollbar-track{
+    background: black;
+
+}
+body::-webkit-scrollbar-thumb{
+    background:rgb(228, 167, 12)
+}
+body::-webkit-scrollbar{
+    width: 0.25rem;
+}
+.formus label{
+     font-size: 20px;
+     
+}
+.nav img{text-align: right;   
+   float: left;}
+form {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-top:px;
+    font-size: 19px;
+    border-color: rgb(43,41,41);
+    border-spacing: 0px;
+    background: transparent;
+    border-style:solid;
+    border-width: 10px;
+    margin-top: 3000px
+}
+.formulario{
+    margin-top: 0px;
+
+}
+.botao2 {color: aliceblue;
+ background:transparent; width: 100px; height: 30px; font-size: 15px; border-style: ridge; float:center;  border-radius: 9px;
+} 
+.navbar img{
+    float: inline-start;
+}
+.navb input {
+    background-color: transparent;
+     border-radius: 5px; width: 50px; height: 20px;
+     display: block;  align-content: center; border-color: green;
+     border-style: solid;
+     color: white;
+}
+
+.navb{  display: inline-block ; align-content: center; } 
+
